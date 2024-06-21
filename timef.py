@@ -3,9 +3,8 @@ import json
 import time
 
 req = requests.Session()
-
-#Paste Here
-token = "Bearer eyJhb...."
+#PASTE HERE
+token = "Bearer eyJh....."
 
 headers = {
     "accept": "/",
