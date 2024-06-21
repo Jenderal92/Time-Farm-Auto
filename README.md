@@ -6,6 +6,10 @@ Python 2.7
 
 <p>Time Farm Auto Claim And Complete Task</p>
 
+# Feature
+
+<li>Auto Farm</li>
+<li>Auto Complete Task</li>
 
 Buy Coffee :
 <li>Bitcoin $: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
@@ -14,6 +18,7 @@ Buy Coffee :
 <li>Trakteer $: https://trakteer.id/shin403</li>
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
+
 
 ![Screenshot_2024-06-21-18-12-53-812-edit_com termux](https://github.com/Jenderal92/Time-Farm-Auto/assets/59664965/54ade355-0f26-4d7f-8eaf-67a534ddeacc)
 
@@ -28,10 +33,10 @@ Buy Coffee :
 <li> Refresh the page and look for a network</li>
 <li> Click on the request and go to the "Headers" section.</li>
 <li> Find the "AUTHORIZATION" header and copy the bearer token value. and paste ur bearer in pyscript</li>
-
+<br>
 <li> Ah, let me explain, this tool doesn't directly connect your wallet, so connect your wallet manually!</li>
 <li> And I'll tell you, If this tool can only be used for single accounts, if you want to create mass you can loop the bearer section</li>
-
+<br>
 <li>Install Python 2.7 <a href="https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi"> Download Here</a></li>
 <li>python file.py</li>
 
