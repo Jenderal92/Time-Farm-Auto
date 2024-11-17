@@ -20,8 +20,6 @@ Python 2.7
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 
 
-![Screenshot_2024-06-21-18-12-53-812-edit_com termux](https://github.com/Jenderal92/Time-Farm-Auto/assets/59664965/54ade355-0f26-4d7f-8eaf-67a534ddeacc)
-
 
 # How To Use?
 
